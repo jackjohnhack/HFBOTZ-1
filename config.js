@@ -15,11 +15,11 @@ global.author = 'wa.me/6285787834363'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'hafizhflash' 
+global.btc = '-----' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'flazhing'
+global.lann = '-----'
 //Daftar https://api.betabotz.eu.org 
 
 global.APIs = {   
@@ -27,7 +27,7 @@ global.APIs = {
   widipe: 'https://widipe.com'
 }
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'hafizhflash' 
+  'https://api.botcahx.eu.org': '--------' 
 }
 
 let fs = require('fs')
